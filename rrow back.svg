@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>rrow back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="💎-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/ui/iOS/navigation-back" fill-rule="nonzero">
+            <g id="rrow-back">
+                <rect id="Rectangle" x="0" y="0" width="28" height="28"></rect>
+                <path d="M4.47227549,15 L10.7889344,21.2870947 C11.4213381,22.0455886 10.3746353,23.4944307 9.38270766,22.6816174 C7.71436757,21.1268062 3.42202142,16.759314 1.54544684,14.8874414 C1.20275928,14.6992308 0.994959997,14.3061782 1.00009294,13.9365609 C0.996918129,13.7018128 1.07506816,13.4655082 1.23683395,13.2719483 C2.88307534,11.5327453 7.63687515,6.89724266 9.33689574,5.21038366 C9.55201258,5.01187157 9.68944834,4.898295 10.1356166,4.92594842 C10.599682,4.98430095 11.2918696,6.03109785 10.7461102,6.60786931 L4.22209959,13.0988552 C10.7380446,13.0806604 21.1127861,13 22,13 C23,13 23,15 21.8540261,15 L4.47227549,15 Z" id="Combined-Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
